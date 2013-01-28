@@ -17,6 +17,7 @@
 		private $_nivel;
 		private $_cupo_max;
 		//agregate diff
+		//Se agrega otra diff
 		//propiedades
 		public function __get($nombre){
 			switch ($nombre) {
