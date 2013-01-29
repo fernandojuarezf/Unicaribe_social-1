@@ -19,6 +19,7 @@
 		//agregate diff
 		//Se agrega otra diff
 		//propiedades
+		//Se agrega otro otro
 		public function __get($nombre){
 			switch ($nombre) {
 				case 'ID':
